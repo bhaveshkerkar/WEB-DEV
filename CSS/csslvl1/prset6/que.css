@@ -1,0 +1,29 @@
+ul{
+    background-color: pink;
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    list-style-type: none;
+    /* background-color: aquamarine; */
+}
+
+.outer{
+    height: 400px;
+    width: 400px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;  /*horizontal align */
+   align-items: center; /*vertical align*/
+}
+
+.inner{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    /* align-self: flex-start; */
+}

@@ -1,0 +1,102 @@
+
+/* 
+p{
+    color: rgb(7, 21, 226);
+}
+
+/* button{
+    color: red;
+    background-color: yellow;
+} */
+
+/* body{
+    background-color: rgb(17, 223, 147);
+}
+
+#box{
+    background-color: aqua;
+} */
+
+/* .Hello{
+    color: red;
+} */
+
+/* h1,h2,h3{
+    color: blue;
+}
+
+button{
+    background-color:red
+}
+
+p{
+    text-align: left;
+} */
+
+/* h1{
+    text-align: center;
+    text-decoration: red dotted underline
+} */
+/* a{
+    text-decoration: none;
+}
+
+
+#h1{
+    font-weight: lighter;
+}
+
+#h2{
+    font-weight: bold;
+}
+
+#h3{
+    font-weight: 600;
+}
+
+#h4{
+    font-weight: 900;
+} */
+
+/* #one{
+    font-family: Arial;
+}
+
+#two{
+    font-family: 'Segoe UI';
+} */
+
+/* #one{
+    font-size: 20px;
+    line-height: normal;
+    font-family: 'Segoe UI';
+    color: aliceblue;
+    text-transform: capitalize;
+}
+#two{
+    font-size: 20px;
+}
+#three{
+    font-size: 30px;
+} */
+
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Times New Roman';
+    
+}
+#outer{
+    font-size: 25px;
+    
+}
+
+#inner{
+    font-size: 20px
+    
+}
+
+button{
+   
+    background-color: black;
+}

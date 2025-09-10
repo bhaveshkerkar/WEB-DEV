@@ -1,0 +1,11 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-image: url(ninja.jpg.jpg);
+    background-size: cover;
+    color: aqua;
+    position: fixed;
+    right: 0px;
+    top: 50px;
+   
+}
