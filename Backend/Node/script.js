@@ -3,4 +3,10 @@
 //   console.log(i);
 // }
 
-console.log(process.argv);
+// console.log(process.argv);
+
+// const SvAlue = require("./math");
+// console.log(SvAlue);
+
+const fruits = require("./Fruits");
+console.log(fruits);
