@@ -1,5 +1,3 @@
-// module.exports = {
-//   name: "Kerk",
-//   age: 22,
-//   favNum: 7,
-// };
+export const sum = (a, b) => a + b;
+export const subtract = (a, b) => a - b;
+export const multiply = (a, b) => a * b;
