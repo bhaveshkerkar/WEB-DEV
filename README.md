@@ -1,80 +1,55 @@
-📁 WEB-DEV Repository
+# 👋 Hi, I’m Bhavesh Kerkar (bhaveshkerkar)
 
-This repository contains my complete web development practice and study material.
-It is divided into Frontend and Backend (MERN) sections, covering all core concepts, projects, and experiments I’ve worked on while learning full-stack development.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="banner" width="700"/>
+</p>
 
-📂 Folder Structure
-🔹 Frontend/
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=28&duration=2500&color=00F700&center=true&vCenter=true&width=650&lines=Hi+I'm+Bhavesh+Kerkar;Learning+Full-Stack+%28MERN%29;Frontend+%26+Backend+Projects)](https://git.io/typing-svg)
 
-This folder includes everything related to frontend development:
+---
 
-HTML – Structure, forms, semantic markup
+### 🔭 About this repo
+This repo contains my web-dev practice split into two folders:
+- `Frontend/` — HTML, CSS, JavaScript, EJS examples and mini-projects  
+- `Backend/` — Node.js, Express, MongoDB (MERN) practice projects
 
-CSS – Layouts, responsiveness, animations
+---
 
-JavaScript – DOM, events, ES6+, API calls
+### 🛠️ Tech Stack
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-black?logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 
-EJS – Template rendering
+---
 
-Mini-projects & practice files
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhaveshkerkar&show_icons=true&theme=tokyonight&count_private=true" alt="Bhavesh's GitHub stats" />
+</p>
 
-🔹 Backend/
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshkerkar&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
 
-This folder contains backend and server-side learning using the MERN stack:
+---
 
-Node.js – Modules, file system, server basics
+### ✨ Projects / Highlights
+- `Frontend/` — small projects: landing pages, forms, responsive layouts  
+- `Backend/` — API examples with Express, simple CRUD with MongoDB  
+> See folders for code, and README files inside each project for setup.
 
-Express.js – Routing, middleware, APIs
+---
 
-MongoDB – CRUD operations, models, schema
+### 🚀 How to run (example)
+```bash
+# backend example
+cd Backend/some-project
+npm install
+npm run dev # or node index.js
 
-EJS/Views – Rendering dynamic pages
-
-Backend logic, API testing & practice projects
-
-🚀 Purpose of This Repository
-
-This repo is created to:
-
-Build a strong foundation in full-stack web development
-
-Practice each concept with code examples
-
-Organize frontend & backend learning in one place
-
-Serve as a reference for future projects
-
-🛠️ Tech Stack Used
-
-Frontend:
-
-HTML
-
-CSS
-
-JavaScript
-
-EJS
-
-Backend:
-
-Node.js
-
-Express.js
-
-MongoDB
-
-EJS templating
-
-📌 Status
-
-This repository is actively growing as I learn and add more features, concepts, and projects.
-
-🤝 Contributing
-
-This is a learning-focused project, but suggestions are welcome!
-Feel free to open issues or pull requests.
-
-📄 License
-
-This project is open-source and free to use.
+# frontend example (static)
+cd Frontend/some-project
+# open index.html in browser
